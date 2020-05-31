@@ -1,0 +1,10 @@
+(function(props,context) {
+        Core.utils.renderBootstrap({
+          elId:'bs-3',
+          componentName:'BackgroundCarousel',
+          props:props,
+          context:context,
+          contextKey:'context-bs-1',
+          radpack:""
+        });
+      })({"dataRoute":"background","slideshow":{"slides":[{"cta":{"enabled":false,"label":"Get in Touch"},"image":{"image":"\u002F\u002Fimg1.wsimg.com\u002Fisteam\u002Fstock\u002F24270"}},{"cta":{"enabled":false,"label":"Get in Touch"},"image":{"image":"\u002F\u002Fimg1.wsimg.com\u002Fisteam\u002Fstock\u002F59354"}},{"cta":{"enabled":false,"label":"Get in Touch","pageId":"f1ac504d-5b61-4b6b-bc00-6d1338f65406"},"image":{"image":"\u002F\u002Fimg1.wsimg.com\u002Fisteam\u002Fstock\u002F127917"}}],"type":"imagesOnly","transition":"fade","autoplay":true,"autoplayDelay":"7","dots":true,"arrows":false,"alignmentOption":"center","themeConfig":{"height":"75vh","maxWidthPercent":100},"heroIdPrefix":"slide-hero-114301"},"mutatorPath":null,"overlay":"accent","treatment":"Fill","style":{"display":"flex","flexDirection":"column","backgroundPosition":"top","minHeight":500,"justifyContent":"flex-start","backgroundColor":"section","paddingTop":0,"@md":{"minHeight":"75vh","position":"relative","paddingTop":0}},"viewDevice":"","widgetId":"dbc7684c-3d54-4a3a-b006-ccb2d47a6bb2","section":"alt","category":"accent","locale":"en-MY","renderMode":"PUBLISH"},{"widgetId":"dbc7684c-3d54-4a3a-b006-ccb2d47a6bb2","widgetType":"HEADER","widgetPreset":"header9","section":"alt","category":"accent","fontSize":"medium","fontFamily":"alternate","group":"HeaderMedia","groupType":"Fill","styleOverrides":{}});

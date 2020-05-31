@@ -1,0 +1,10 @@
+(function(props,context) {
+        Core.utils.renderBootstrap({
+          elId:'1b108dd0-59f1-45ce-907f-fbc2d25481b3-bootstrap-container',
+          componentName:'SubscribeForm2',
+          props:props,
+          context:context,
+          contextKey:'context-bs-1',
+          radpack:""
+        });
+      })({"preset":"subscribe2","id":"1b108dd0-59f1-45ce-907f-fbc2d25481b3","isInternalPage":false,"env":"production","websiteId":"76127fd1-e93a-4ebd-b7ff-baf32584b1f4","accountId":"3245fd84-a25a-11ea-81d9-3417ebe60eb6","hasNonCommercePlan":true,"couponToggleHidden":false,"sectionTitle":"Subscribe","staticContent":{"defaultButtonLabel":"Sign Up","emailPlaceholderText":"Email Address","verificationText":"To let us know it's really you and that you'd like to receive emails from us, please click the link in the confirmation email we just sent you. You can unsubscribe from these emails at any time.","emailErrorMessage":"Please enter a valid email address."},"confirmationMessage":"Great, now please verify your email","couponConfirmationMessage":"Thanks so much for signing up!","description":"Sign up to hear from us about specials, sales, and events.","couponDescription":"Get 10% off your first purchase when you sign up for our newsletter!","inputPlaceholder":"Email","subscribeButtonLabel":"Sign up","couponToggle":true,"widgetId":"1b108dd0-59f1-45ce-907f-fbc2d25481b3","section":"default","category":"primary","locale":"en-MY","renderMode":"PUBLISH"},{"widgetId":"1b108dd0-59f1-45ce-907f-fbc2d25481b3","widgetType":"SUBSCRIBE","widgetPreset":"subscribe2","order":3,"section":"default","category":"primary","fontSize":"medium","fontFamily":"alternate","group":"Group","groupType":"Default","styleOverrides":{}});
